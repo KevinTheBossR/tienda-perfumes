@@ -1,11 +1,13 @@
-Tienda de Perfumes
+# Tienda de Perfumes
 
-Que tecnologias usare?
-* nodejs + typescript
-postgreSQL
-stripe
+Ecommerce de perfumes que estoy construyendo desde cero para aprender desarrollo web.
 
-##ideas
-1. filtrar por marca, sexo y notas
-2. responsive
-3. barra de busqueda
+## Tecnologías
+- Next.js + TypeScript
+- PostgreSQL
+- Stripe
+
+## Ideas
+1. Filtrar por marca, sexo y notas
+2. Diseño responsive
+3. Barra de búsqueda
